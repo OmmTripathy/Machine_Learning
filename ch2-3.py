@@ -30,7 +30,7 @@ print(outliers)
 
 
 # Visualize using boxplot
-plt.boxplot(df['Temp'])
+plt.boxplot(df.Temp)
 plt.title("Outlier Detection")
 plt.ylabel("Temperature")
 plt.show()
