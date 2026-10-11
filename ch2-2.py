@@ -39,6 +39,60 @@ print("Count:", df["Temp"].count())
 print("Average:", df["Temp"].mean())
 print("Middle value:", df["Temp"].median())
 print("Standard deviation:", df["Temp"].std())
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print("Variance:", df["Temp"].var())
 
 

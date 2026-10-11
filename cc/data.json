@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Diya Sharma",
+    "age": 38,
+    "department": "Sales",
+    "city": "Pune",
+    "salary_inr": 45000,
+    "years_experience": 23,
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Diya Singh",
+    "age": 48,
+    "department": "Engineering",
+    "city": "Bhubaneswar",
+    "salary_inr": 37500,
+    "years_experience": 6,
+    "active": true
+  },
+  {
+    "id": 3,
+    "name": "Aarav Singh",
+    "age": 33,
+    "department": "Support",
+    "city": "Mumbai",
+    "salary_inr": 135000,
+    "years_experience": 17,
+    "active": false
+  },
+  {
+    "id": 4,
+    "name": "Ananya Reddy",
+    "age": 58,
+    "department": "Marketing",
+    "city": "Bhubaneswar",
+    "salary_inr": 145000,
+    "years_experience": 25,
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Rohan Das",
+    "age": 38,
+    "department": "Sales",
+    "city": "Pune",
+    "salary_inr": 145000,
+    "years_experience": 10,
+    "active": true
+  },
+  {
+    "id": 6,
+    "name": "Diya Reddy",
+    "age": 27,
+    "department": "Marketing",
+    "city": "Bengaluru",
+    "salary_inr": 120000,
+    "years_experience": 8,
+    "active": true
+  },
+  {
+    "id": 7,
+    "name": "Sana Singh",
+    "age": 28,
+    "department": "HR",
+    "city": "Bhubaneswar",
+    "salary_inr": 112500,
+    "years_experience": 9,
+    "active": true
+  },
+  {
+    "id": 8,
+    "name": "Ananya Nair",
+    "age": 25,
+    "department": "Engineering",
+    "city": "Mumbai",
+    "salary_inr": 60000,
+    "years_experience": 24,
+    "active": true
+  },
+  {
+    "id": 9,
+    "name": "Diya Patel",
+    "age": 27,
+    "department": "HR",
+    "city": "Bengaluru",
+    "salary_inr": 97500,
+    "years_experience": 20,
+    "active": true
+  },
+  {
+    "id": 10,
+    "name": "Kabir Das",
+    "age": 43,
+    "department": "Sales",
+    "city": "Mumbai",
+    "salary_inr": 67500,
+    "years_experience": 22,
+    "active": true
+  },
+  {
+    "id": 11,
+    "name": "Kabir Singh",
+    "age": 36,
+    "department": "Sales",
+    "city": "Hyderabad",
+    "salary_inr": 85000,
+    "years_experience": 8,
+    "active": true
+  },
+  {
+    "id": 12,
+    "name": "Meera Sharma",
+    "age": 35,
+    "department": "Engineering",
+    "city": "Bengaluru",
+    "salary_inr": 87500,
+    "years_experience": 8,
+    "active": true
+  },
+  {
+    "id": 13,
+    "name": "Ananya Singh",
+    "age": 41,
+    "department": "Sales",
+    "city": "Mumbai",
+    "salary_inr": 102500,
+    "years_experience": 12,
+    "active": false
+  },
+  {
+    "id": 14,
+    "name": "Kabir Das",
+    "age": 29,
+    "department": "Sales",
+    "city": "Mumbai",
+    "salary_inr": 112500,
+    "years_experience": 17,
+    "active": true
+  },
+  {
+    "id": 15,
+    "name": "Rohan Singh",
+    "age": 46,
+    "department": "Marketing",
+    "city": "Pune",
+    "salary_inr": 45000,
+    "years_experience": 16,
+    "active": false
+  },
+  {
+    "id": 16,
+    "name": "Diya Sharma",
+    "age": 28,
+    "department": "Sales",
+    "city": "Mumbai",
+    "salary_inr": 50000,
+    "years_experience": 25,
+    "active": false
+  },
+  {
+    "id": 17,
+    "name": "Diya Reddy",
+    "age": 45,
+    "department": "Finance",
+    "city": "Hyderabad",
+    "salary_inr": 107500,
+    "years_experience": 8,
+    "active": true
+  },
+  {
+    "id": 18,
+    "name": "Diya Nair",
+    "age": 55,
+    "department": "Marketing",
+    "city": "Mumbai",
+    "salary_inr": 77500,
+    "years_experience": 3,
+    "active": true
+  },
+  {
+    "id": 19,
+    "name": "Rohan Patel",
+    "age": 50,
+    "department": "Engineering",
+    "city": "Mumbai",
+    "salary_inr": 140000,
+    "years_experience": 8,
+    "active": true
+  },
+  {
+    "id": 20,
+    "name": "Diya Nair",
+    "age": 40,
+    "department": "Support",
+    "city": "Delhi",
+    "salary_inr": 120000,
+    "years_experience": 6,
+    "active": true
+  },
+  {
+    "id": 21,
+    "name": "Meera Patel",
+    "age": 55,
+    "department": "Finance",
+    "city": "Bhubaneswar",
+    "salary_inr": 120000,
+    "years_experience": 10,
+    "active": false
+  },
+  {
+    "id": 22,
+    "name": "Aarav Sharma",
+    "age": 44,
+    "department": "Marketing",
+    "city": "Pune",
+    "salary_inr": 32500,
+    "years_experience": 7,
+    "active": true
+  },
+  {
+    "id": 23,
+    "name": "Diya Nair",
+    "age": 52,
+    "department": "Engineering",
+    "city": "Delhi",
+    "salary_inr": 147500,
+    "years_experience": 4,
+    "active": true
+  },
+  {
+    "id": 24,
+    "name": "Sana Singh",
+    "age": 31,
+    "department": "Marketing",
+    "city": "Delhi",
+    "salary_inr": 120000,
+    "years_experience": 13,
+    "active": true
+  },
+  {
+    "id": 25,
+    "name": "Ananya Nair",
+    "age": 40,
+    "department": "HR",
+    "city": "Mumbai",
+    "salary_inr": 127500,
+    "years_experience": 11,
+    "active": false
+  },
+  {
+    "id": 26,
+    "name": "Sana Sharma",
+    "age": 36,
+    "department": "Sales",
+    "city": "Bhubaneswar",
+    "salary_inr": 77500,
+    "years_experience": 0,
+    "active": true
+  },
+  {
+    "id": 27,
+    "name": "Ananya Sharma",
+    "age": 25,
+    "department": "Support",
+    "city": "Mumbai",
+    "salary_inr": 32500,
+    "years_experience": 7,
+    "active": true
+  },
+  {
+    "id": 28,
+    "name": "Aarav Das",
+    "age": 25,
+    "department": "Finance",
+    "city": "Pune",
+    "salary_inr": 67500,
+    "years_experience": 21,
+    "active": false
+  },
+  {
+    "id": 29,
+    "name": "Ananya Singh",
+    "age": 29,
+    "department": "Support",
+    "city": "Delhi",
+    "salary_inr": 115000,
+    "years_experience": 15,
+    "active": true
+  },
+  {
+    "id": 30,
+    "name": "Sana Reddy",
+    "age": 33,
+    "department": "Engineering",
+    "city": "Bhubaneswar",
+    "salary_inr": 130000,
+    "years_experience": 13,
+    "active": true
+  }
+]
